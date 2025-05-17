@@ -38,8 +38,4 @@
 - scikit-learnb
 
 3. Run the script:
-
-- bash
-- Copy
-- Edit
 - python bias_detection.py
