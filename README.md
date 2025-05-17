@@ -27,7 +27,7 @@
 1. Clone the repo:
    ```bash
    git clone https://github.com/yourusername/bias-detection-mitigation.git
-   cd bias-detection-mitigation
+   
 
 2. Install dependencies:
 
