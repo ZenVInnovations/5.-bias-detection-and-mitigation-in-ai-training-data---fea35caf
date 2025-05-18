@@ -1,4 +1,4 @@
-# Bias Detection and Mitigation in Datasets
+# Bias Detection and Mitigation in AI Training Data
 
 ---
 
