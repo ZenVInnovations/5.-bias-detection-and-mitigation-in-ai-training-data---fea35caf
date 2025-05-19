@@ -1,0 +1,11 @@
+EmployeeID,Age,Gender,Department,Attrition
+1001,28,Male,Sales,Yes
+1002,34,Female,IT,No
+1003,45,Male,HR,No
+1004,23,Female,Sales,Yes
+1005,39,Male,IT,No
+1006,31,Female,IT,Yes
+1007,29,Male,Sales,No
+1008,40,Female,HR,No
+1009,26,Female,Sales,Yes
+1010,50,Male,IT,No
